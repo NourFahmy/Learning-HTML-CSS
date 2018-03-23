@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+body {
+	width: %;
+	border: 20px solid gray;
+	align-content: center;
+	padding: 15px;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-right:20%;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+hr {
+	
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+}
+p:nth-of-type(1) {
+	border-left: 2px solid gray;
+	padding-left:5px;
+}
+
+div h6 {
+	text-transform: uppercase;
+	color: #42d9f4;
+	letter-spacing: 3px;
+}

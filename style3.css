@@ -1,0 +1,14 @@
+p {
+	/*Content width and height*/
+	/*width: 200px;*/
+	width: 50%;
+	/*height:300px;*/
+	/*border*/
+	border: 2px solid blue; /*need to change size of border by changing width of content
+	*/
+	/*Padding*/
+	padding: 10px;
+	padding-left: 40px;
+	/*Margin*/
+	margin: 0 auto 0 auto;
+}

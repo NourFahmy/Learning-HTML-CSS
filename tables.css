@@ -1,0 +1,6 @@
+.x {
+	border: solid black 5px;
+}
+.x td:nth-of-type(2) {
+	background-color: gray;
+}
